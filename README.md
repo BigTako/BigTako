@@ -1,16 +1,15 @@
-### Hi there 👋
+### <div align="center">I'm Alexander, a Student of NTU KhPI and participant of ucode connect 👨‍💻</div>  
+  
 
-<!--
-**BigTako/BigTako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ucode connect projects  
+  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C  
+ 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,java,html,css,js,linux" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
