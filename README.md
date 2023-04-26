@@ -1,4 +1,4 @@
-### <div align="center"> <img src="https://png.pngtree.com/png-vector/20201129/ourmid/pngtree-cute-taco-vector-illustration-png-image_2486323.jpg" />Hey there, i'm Alexander 👨‍💻</div>  
+### <div align="center">Hey there, i'm Alexander 👨‍💻</div>  
   
 🧑🏻‍💻   I'm currentry:
   ▫️ Learning Computer Science in NTU KhPI
