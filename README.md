@@ -1,14 +1,16 @@
-### <div align="center">I'm Alexander, a Student of NTU KhPI and participant of ucode connect 👨‍💻</div>  
+### <div align="center"> <img src="https://png.pngtree.com/png-vector/20201129/ourmid/pngtree-cute-taco-vector-illustration-png-image_2486323.jpg" />Hey there, i'm Alexander 👨‍💻</div>  
   
-
-- 🔭 I’m currently working on ucode connect projects  
+🧑🏻‍💻   I'm currentry:
+  ▫️ Learning Computer Science in NTU KhPI
+  ▫️ A participant of ucode connect program
+  ▫️ Python, C, C++ specialist(more that 5 successfuly completed projects)
+  ▫️ Learning Backend development.
   
-
-- 🌱 I’m currently learning C  
- 
+- 🌱 I’m currently learning C
+- 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,java,html,css,js,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,linux,git" />
   </a>
 </p>
 
