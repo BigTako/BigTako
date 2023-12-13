@@ -28,7 +28,7 @@
 <h3>▫ Backend development</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,sqlite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,sqlite,postgres,sequelize" />
   </a>
 </p>
 
