@@ -32,7 +32,7 @@
 <h3>▫ Backend development</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,express,mongodb,supabase,sqlite,postgres,sequelize" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,express,mongodb,supabase,sqlite,postgres,sequelize,jest" />
   </a>
 </p>
 <p>And also: TypeOrm, Nodemailer, etc...</p>
