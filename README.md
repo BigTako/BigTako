@@ -46,7 +46,7 @@
 <h3>▫ Additional knowledge</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,linux," />
+    <img src="https://skillicons.dev/icons?i=docker,c,python,linux," />
   </a>
 </p>
 
