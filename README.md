@@ -32,21 +32,21 @@
 <h3>▫ Backend development</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,express,mongodb,supabase,sqlite,postgres,sequelize,jest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,express,mongodb,supabase,sqlite,postgres,sequelize,jest,prisma" />
   </a>
 </p>
 <p>And also: TypeOrm, Nodemailer, etc...</p>
 <h3>▫ Frontend development</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,pug,bootstrap,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=nextjs,html,css,js,tailwind,react,redux,pug,bootstrap,styledcomponents" />
   </a>
 </p>
 
 <h3>▫ Additional knowledge</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,c,python,linux," />
+    <img src="https://skillicons.dev/icons?i=vercel,docker,c,python,linux," />
   </a>
 </p>
 
